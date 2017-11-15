@@ -1,7 +1,13 @@
+/* DON`T FOROGT TO CHANGE IN GULFILE.JS .pipe-expanded to compressed */
 body {
   background-color: blue;
 }
 
 h1 {
   color: red;
+}
+
+h1:hover {
+  -webkit-transition: color 1s ease;
+  transition: color 1s ease;
 }
