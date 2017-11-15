@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "alexandru cotici porfolio build with html css sass gulp javascript jquery template by mobirise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandruCotici/Portfolio.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "git",
+    "javascript",
+    "jquery",
+    "css",
+    "html"
+  ],
+  "author": "Alexandru Cotici <alexandrucoticidesign@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandruCotici/Portfolio/issues"
+  },
+  "homepage": "https://github.com/AlexandruCotici/Portfolio#readme"
+}
