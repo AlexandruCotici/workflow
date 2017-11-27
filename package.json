@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "workflow",
   "version": "1.0.0",
   "description": "alexandru cotici workflow build with html css sass gulp javascript jquery ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexandruCotici/Portfolio.git"
+    "url": "git+https://github.com/AlexandruCotici/workflow.git"
   },
   "keywords": [
     "gulp",
@@ -22,9 +22,9 @@
   "author": "Alexandru Cotici <alexandrucoticidesign@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexandruCotici/Portfolio/issues"
+    "url": "https://github.com/AlexandruCotici/workflow/issues"
   },
-  "homepage": "https://github.com/AlexandruCotici/Portfolio#readme",
+  "homepage": "https://github.com/AlexandruCotici/workflow#readme",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.18.13",
