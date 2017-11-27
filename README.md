@@ -1,7 +1,7 @@
 # Workflow build with Gulp
 
 
-Workflow build with HTML,CSS,SASS,JavaScript | jQuery , Gulp
+Workflow build with HTML, CSS, SASS, Bootstrap, JavaScript | jQuery | Mustache , Gulp
 
 #Instruction:
 
@@ -9,11 +9,9 @@ Workflow build with HTML,CSS,SASS,JavaScript | jQuery , Gulp
 
 2.- Make sure you have installed: 
 
-	-[node.js](http://nodejs.org)
-
-	-[git](http://git-scm.com)
-
-	-[gulp](http://gulpjs.com)
+	-[node.js](http://nodejs.org/)
+	-[git](http://git-scm.com/)
+	-[gulp](http://gulpjs.com/)
 
 3.- Run   `npm install`  to install the project dependencies
 

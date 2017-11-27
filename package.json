@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "alexandru cotici porfolio build with html css sass gulp javascript jquery template by mobirise",
+  "description": "alexandru cotici workflow build with html css sass gulp javascript jquery ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
