@@ -112,12 +112,7 @@ gulp.task('html', function() {
 		.pipe(injectPartials())
 		.pipe(gulp.dest(APPPATH.root))
 });
-/*
-gulp.task('copy', ['clean-html'], function() {
-	gulp.src(SOURCEPATHS.htmlSource)
-		.pipe(gulp.dest(APPPATH.root))
-});
-*/
+
 gulp.task('serve', ['sass'], function() {
 	browserSync.init([APPPATH.css + '/*.css', APPPATH.root + '/*.html', APPPATH.js + '/*.js'],{
 		server: {
